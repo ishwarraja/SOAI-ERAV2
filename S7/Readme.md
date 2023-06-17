@@ -46,6 +46,8 @@ Good model!
 
 #### File Link: https://github.com/ishwarraja/SOAI-ERAV2/blob/main/S7/ERA1S7F5.ipynb
 
+![](Image/Model2-TheBatchNormalization.png)
+
 
 **********************************************************************************************************************
 ### Model3 Name - 
@@ -53,19 +55,20 @@ Good model!
 
 
 
+#### Target 
+Add Batch-norm to increase model efficiency.
 
+#### Results: 
+1.Parameters : 
 
+2.Train Accuracy : 
 
-### Target & Result Analysis
-#Targets: Make the model lighter
-#15 Epoch Results: 
-  Parameters : 
-  Train Accuracy : 
-  Test Accuracy : 
-#Analysis:
-  Good model!
-  No over-fitting
-#File Link:
+3.Test Accuracy : 
+
+#### Analysis:
+Good model!
+
+#### File Link: 
 
 
 **********************************************************************************************************************
@@ -73,15 +76,17 @@ Good model!
 ### Code Explanation
 
 
+#### Target 
+Add Batch-norm to increase model efficiency.
 
+#### Results: 
+1.Parameters : 
 
-### Target & Result Analysis
-#Targets: Make the model lighter
-#15 Epoch Results: 
-  Parameters : 
-  Train Accuracy : 
-  Test Accuracy : 
-#Analysis:
-  Good model!
-  No over-fitting
-#File Link:
+2.Train Accuracy : 
+
+3.Test Accuracy : 
+
+#### Analysis:
+Good model!
+
+#### File Link: 
