@@ -4,18 +4,21 @@
 ### Code Explanation
 
 
-### Target & Result Analysis
+#### Target & Result Analysis
 #Targets: Make the model lighter
-#15 Epoch Results: 
-  Parameters : 10k
-  Train Accuracy : 99.11%
-  Test Accuracy : 98.90%
-#Analysis:
-  Good model!
-  No over-fitting
-#File Link: https://github.com/ishwarraja/SOAI-ERAV2/blob/main/S7/ERA1S7F3.ipynb
 
-![](Images/Model1-TheLighterModel.png)
+#### Results: 
+1.Parameters : 10790
+2.Train Accuracy : 99.11
+3.Test Accuracy : 98.90
+  
+#### Analysis:
+  1.Good model!
+  2.No over-fitting
+  
+#### File Link: https://github.com/ishwarraja/SOAI-ERAV2/blob/main/S7/ERA1S7F3.ipynb
+
+![](Image/Model1-TheLighterModel.png)
 
 
 **********************************************************************************************************************
