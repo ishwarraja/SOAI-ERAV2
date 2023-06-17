@@ -1,11 +1,8 @@
 ## Session 7 Assignment -
-*****************************************************MODEL 1*****************************************************************
-### Model Name - The Lighter Model
-
+**********************************************************************************************************************
+### Model1 Name - The Lighter Model
 ### Code Explanation
 
-
-Total 15 epochs to get the best parameters
 
 ### Target & Result Analysis
 #Targets: Make the model lighter
@@ -19,12 +16,12 @@ Total 15 epochs to get the best parameters
 #File Link: https://github.com/ishwarraja/SOAI-ERAV2/blob/main/S7/ERA1S7F3.ipynb
 
 ![](Images/Model1-TheLighterModel.png)
-*****************************************************MODEL 2*****************************************************************
 
+
+**********************************************************************************************************************
+### Model2 Name - 
 ### Code Explanation
 
-
-Total 15 epochs to get the best parameters.
 
 
 
@@ -39,12 +36,13 @@ Total 15 epochs to get the best parameters.
   No over-fitting
 #File Link:
 
-*****************************************************MODEL 3*****************************************************************
 
+**********************************************************************************************************************
+### Model3 Name - 
 ### Code Explanation
 
 
-Total 15 epochs to get the best parameters.
+
 
 
 
@@ -59,12 +57,11 @@ Total 15 epochs to get the best parameters.
   No over-fitting
 #File Link:
 
-*****************************************************MODEL 4*****************************************************************
 
+**********************************************************************************************************************
+### Model4 Name - 
 ### Code Explanation
 
-
-Total 15 epochs to get the best parameters.
 
 
 
