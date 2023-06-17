@@ -50,43 +50,54 @@ Good model!
 
 
 **********************************************************************************************************************
-### Model3 Name - 
+### Model3 Name - The Regularization
 ### Code Explanation
 
 
 
 #### Target 
-Add Batch-norm to increase model efficiency.
+Add Regularization, Dropout
 
 #### Results: 
-1.Parameters : 
+1.Parameters : 10970
 
-2.Train Accuracy : 
+2.Train Accuracy : 99.29
 
-3.Test Accuracy : 
+3.Test Accuracy : 99.07
 
 #### Analysis:
-Good model!
+Regularization working. 
+But with the current capacity, not possible to push it further. 
+We are also not using GAP, but depending on a BIG-sized kernel
 
-#### File Link: 
+
+#### File Link: https://github.com/ishwarraja/SOAI-ERAV2/blob/main/S7/ERA1S7F5.ipynb
+
+![](Image/Model3-TheRegularization.png)
 
 
 **********************************************************************************************************************
-### Model4 Name - 
+### Model4 Name -  Increase the Capicity
 ### Code Explanation
 
 
 #### Target 
-Add Batch-norm to increase model efficiency.
+Increase model capacity. Add more layers at the end. 
 
 #### Results: 
-1.Parameters : 
+1.Parameters : 11994
 
-2.Train Accuracy : 
+2.Train Accuracy : 99.22
 
-3.Test Accuracy : 
+3.Test Accuracy : 98.04
 
 #### Analysis:
-Good model!
+The model still showing over-fitting, possibly DropOut is not working as expected! Wait yes! We don't know which layer is causing over-fitting. Adding it to a specific layer wasn't a great idea. 
+Quite Possibly we need to add more capacity, especially at the end. 
+Closer analysis of MNIST can also reveal that just at RF of 5x5 we start to see patterns forming. 
+We can also increase the capacity of the model by adding a layer after GAP!
 
-#### File Link: 
+
+#### File Link: https://github.com/ishwarraja/SOAI-ERAV2/blob/main/S7/ERA1S7F7.ipynb
+
+![](Image/Model4-IncreaseTheCapacity.png)
