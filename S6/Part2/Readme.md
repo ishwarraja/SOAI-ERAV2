@@ -51,8 +51,17 @@ S6.ipynb
 
 If you find this code useful in your research or work, please consider citing:
 
+## Parameters
+
+![Alt text](S6img01.jpg)
+
+## Result 
+
+![Alt text](S6img02.jpg)
+
+
 ```
-@misc{mnist-classification-pytorch,
+@misc{Backpropagation and Advanced Architectures,
   author = {Ishwar Venugopal},
   title = {Backpropagation and Advanced Architectures },
   year = {2023},
