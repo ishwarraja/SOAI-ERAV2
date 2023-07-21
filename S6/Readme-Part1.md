@@ -1,4 +1,4 @@
-        #Assignment 6: Part 1
+#Assignment 6: Part 1
 
 ##Learning Rate is 0.1
 With learning rate 0.1, the loss decreased from 0.014 to 0.01 after 66 epochs
@@ -29,3 +29,8 @@ With learning rate 1.0, the loss decreased from 0.014 to less than 0.0 after 66 
 With learning rate 2.0, the loss decreased from 0.014 to 0.0 in less than 36 epochs
 
 ![Alt text](S6img20.jpg)
+
+
+Summary:
+As learning rate increases from 0.1 to 2.0, the loss decreases to 0 within 36 epochs.
+
